@@ -1,0 +1,46 @@
+{
+  "approved_membership_cohort": {
+    "age_screen_count": 302,
+    "categories": {
+      "age_only": 284,
+      "both": 18,
+      "neither_observed": 37,
+      "stake_only": 6,
+      "unknown": 1
+    },
+    "count": 346,
+    "either_screen_count": 308,
+    "known_stake_records": 345,
+    "non_sfdp_stake_bands": {
+      "100000_to_300000_inclusive": 99,
+      "50000_to_under_100000": 126,
+      "over_300000": 24,
+      "under_50000": 96,
+      "unknown": 1
+    },
+    "overlap_count": 18,
+    "stake_screen_count": 24
+  },
+  "positive_foundation_balance_subset": {
+    "age_screen_count": 294,
+    "categories": {
+      "age_only": 277,
+      "both": 17,
+      "neither_observed": 36,
+      "stake_only": 5,
+      "unknown": 0
+    },
+    "count": 335,
+    "either_screen_count": 299,
+    "known_stake_records": 335,
+    "non_sfdp_stake_bands": {
+      "100000_to_300000_inclusive": 99,
+      "50000_to_under_100000": 123,
+      "over_300000": 22,
+      "under_50000": 91,
+      "unknown": 0
+    },
+    "overlap_count": 17,
+    "stake_screen_count": 22
+  }
+}

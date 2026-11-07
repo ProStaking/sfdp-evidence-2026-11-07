@@ -1,0 +1,1737 @@
+{
+  "filter": "state == 'Approved'",
+  "records": [
+    {
+      "sfdp2_onboarding_epoch": 809,
+      "state": "Approved",
+      "validator_identity": "11AMA4mnNbsrPQeuoNN7uiZVJZtqEzQHrTfa5vnbcjk"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "1KXvrkPXwkGF6NK1zyzVuJqbXfpenPVPP6hoiK9bsK3"
+    },
+    {
+      "sfdp2_onboarding_epoch": 845,
+      "state": "Approved",
+      "validator_identity": "1Link6hB1NpkCwJt3ZtpQKZszKauhEcKgiWjaU8PRDG"
+    },
+    {
+      "sfdp2_onboarding_epoch": 938,
+      "state": "Approved",
+      "validator_identity": "1ggyZGbYtEo1WrV1kmXfnvhPeSPxrYAXoDBeApnszLT"
+    },
+    {
+      "sfdp2_onboarding_epoch": 782,
+      "state": "Approved",
+      "validator_identity": "1i1yPyh843bTfi5qPgqozTbDcEX65rUNEFcUT2KAs2i"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "23SUe5fzmLws1M58AnGnvnUBRUKJmzCpnFQwv4M4b9Er"
+    },
+    {
+      "sfdp2_onboarding_epoch": 739,
+      "state": "Approved",
+      "validator_identity": "2AKKnirWVZMhnzuwqpizw9SwfZjGpRFLx2zCCNtPWpbc"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "2Eq6YD8P8QXTeoz9h6JHjgZ55t8RSxNdx4waMDCoPmQU"
+    },
+    {
+      "sfdp2_onboarding_epoch": 846,
+      "state": "Approved",
+      "validator_identity": "2N7v8pDKDYhtBUJBQUgxvysUjgM9s4ULPCmeEiPWTf6Z"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "2P9ZYA4vBoBBr56hrEFTmrd5ctuz3r7wtvRYmbgk6jRL"
+    },
+    {
+      "sfdp2_onboarding_epoch": 639,
+      "state": "Approved",
+      "validator_identity": "2UBhtRuyr9nvWsUnrbWrvJiYWEU8TVBD4PLYQJKiRa9H"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "2VKu11f8zc3huqDQUN6WJTFpX32PgHpXXjf72P6YvYMd"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "2X7WoaXX9KPqNrNfvguhnwo3rjFPNsfw2t75fGjWRthz"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "2XmhZKHmfjku3T3nC9xKhgr5bm1CAmWXqNsNt49mo82C"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "2gDeeRa3mwPPtw1CMWPkEhRWo9v5izNBBfEXanr8uibX"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "2jS8AX38m8F9C5juToW1FmTufEbb1DfDzZJj9HSJcWwo"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "2mDrrmhSzpSyaF12izGk8hnFjtKCGeCFPwQHpRiJDby2"
+    },
+    {
+      "sfdp2_onboarding_epoch": 616,
+      "state": "Approved",
+      "validator_identity": "2mMGsb5uy1Q4Dvezr8HK2E8SJoChcb2X7b61tJPaVHHd"
+    },
+    {
+      "sfdp2_onboarding_epoch": 676,
+      "state": "Approved",
+      "validator_identity": "2t53LvZfskcpXkdwLaBnfZLbNgyVHPu2BNFpcRBaEBhM"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "2uxEHizFmmnLekKG2LZJwxNabhpymEYfdVCpgDxjt87m"
+    },
+    {
+      "sfdp2_onboarding_epoch": 632,
+      "state": "Approved",
+      "validator_identity": "2zykwzzo1pd3H2oSj5j5SRLTvmpa9Nr2S2Bh8tTVd5Tq"
+    },
+    {
+      "sfdp2_onboarding_epoch": 600,
+      "state": "Approved",
+      "validator_identity": "38zm5bBgDaNRSQBDUAL72kMH3RsX4UKmZiNmmrjuTq8W"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "3BeharBd3j4sKQp7Qze27JLQLd9AEEwGTX9TC7dXYSNw"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "3CKKAoVi94EnfX8QcVxEmk8CAvZTc6nAYzXp1WkSUofX"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "3DaPk6TdeGnEBwTR8fEyZSLkdayk6vZXrqGZhAgYK8BV"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "3KNGMiXwhy2CAWVNpLoUt25sNngFnX1mZpaiEeVccBA6"
+    },
+    {
+      "sfdp2_onboarding_epoch": 775,
+      "state": "Approved",
+      "validator_identity": "3Pfubj3ytkRxFAGwFb5vtacuZJUxko5Du39xie9MBXuC"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "3RXKQBRv7xKTQeNdLSPhCiD4QcUfxEQ12rtgUkMf5LnS"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "3Rv6ZVGUuRczP76322LyhTTYw2iM4avV4B5xFJocQJer"
+    },
+    {
+      "sfdp2_onboarding_epoch": 579,
+      "state": "Approved",
+      "validator_identity": "3V2xaccDpFib4DbTksdiveNDmiwpXBqSWyjSof3w1Bg7"
+    },
+    {
+      "sfdp2_onboarding_epoch": 659,
+      "state": "Approved",
+      "validator_identity": "3WDh9HgusCujDmXCVhophLrHvoKHQd1Sd4uFHz1Awo35"
+    },
+    {
+      "sfdp2_onboarding_epoch": 760,
+      "state": "Approved",
+      "validator_identity": "3YVoK8UN62dyiPZnGBzBTkGdwsVmmK1MpRoLcxNRs9BE"
+    },
+    {
+      "sfdp2_onboarding_epoch": 818,
+      "state": "Approved",
+      "validator_identity": "3YX7PQuESmR2h95FDgjahEQjyCBhmY1Ts2MsrM1Kg9DS"
+    },
+    {
+      "sfdp2_onboarding_epoch": 817,
+      "state": "Approved",
+      "validator_identity": "3cZSHGfNdaULpFAvGbWbxpVwzXB4gHdk8NFucPNR5pgA"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "3rqEEEGjHRyndHuduBcjkf17rX3hgmGACpYTQYeZ5Ltk"
+    },
+    {
+      "sfdp2_onboarding_epoch": 579,
+      "state": "Approved",
+      "validator_identity": "3s97yjq2MhoPVPC3U9VeE3Z5S643Pweovg88ysvrQPw5"
+    },
+    {
+      "sfdp2_onboarding_epoch": 587,
+      "state": "Approved",
+      "validator_identity": "3tm92VTxwyZ5MDhGoYR4tVTkwWYkzfam6hwBjauUACCk"
+    },
+    {
+      "sfdp2_onboarding_epoch": 659,
+      "state": "Approved",
+      "validator_identity": "3tzpLMWRkWucvTRWU5PjgKzN1iwJuV69yCCjmuuo4gTk"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "43Am3PKFeo9cACpqYL5Sk95rpVdxLw3Mc22PqRqZXEW2"
+    },
+    {
+      "sfdp2_onboarding_epoch": 754,
+      "state": "Approved",
+      "validator_identity": "4DraK9wUrMSpzbGjUbSWTHAhJimMyB49HyKhvfwe6e51"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "4Kbcyn7JVPAWLRLPsNGTPmcNMvCkLTw51ZLRhqsUC6jP"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "4QNekaDqrLmUENqkVhGCJrgHziPxkX9kridbKwunx9su"
+    },
+    {
+      "sfdp2_onboarding_epoch": 676,
+      "state": "Approved",
+      "validator_identity": "4SsMncJdtKiUcDtukkX15mqei7WiuQ9yvRtQrQW4reWC"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "4VrjyXQT61WFSjuG3ehgqZUK1jqvYqB46veQbXLotq3n"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "4XspXDcJy3DWZsVdaXrt8pE1xhcLpXDKkhj9XyjmWWNy"
+    },
+    {
+      "sfdp2_onboarding_epoch": 771,
+      "state": "Approved",
+      "validator_identity": "4aRPyjsqqFsf5488a9QAaHJLQJMGwoL5P6wRtLmroe2d"
+    },
+    {
+      "sfdp2_onboarding_epoch": 794,
+      "state": "Approved",
+      "validator_identity": "4k6wgP5WPBKQpsFGtzuXNrjcTE2fKWLj17nDvFeG5zSF"
+    },
+    {
+      "sfdp2_onboarding_epoch": 706,
+      "state": "Approved",
+      "validator_identity": "4uH4G6YiD5G8rU3mtPg73C2Uqamrqedy3FboTZcZrh6x"
+    },
+    {
+      "sfdp2_onboarding_epoch": 771,
+      "state": "Approved",
+      "validator_identity": "4vcmYPfLztUckU3c3FvXDwSq8aDNDqwEpvEiqAv97LGJ"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "5AsoSeQtLoN8eLsf3wKrR3LwxHME4sTBGR6dpTCP1k3H"
+    },
+    {
+      "sfdp2_onboarding_epoch": 775,
+      "state": "Approved",
+      "validator_identity": "5HYjArGt81naevDdwMaEx8yeGNw9jYBSDJa8YavT9Mp4"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "5VrW7YNBccVnhnZVmooCePdLFcs2UjfxRT3hoY9mN8Ec"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "5XKJwdKB2Hs7pkEXzifAysjSk6q7Rt6k5KfHwmAMPtoQ"
+    },
+    {
+      "sfdp2_onboarding_epoch": 817,
+      "state": "Approved",
+      "validator_identity": "5aD6KB8g4MPt3xJafmMmun86hHMDnoFiGbd5gYiMFZw7"
+    },
+    {
+      "sfdp2_onboarding_epoch": 888,
+      "state": "Approved",
+      "validator_identity": "5essVpBYvocZkQnkrWsMDfRPwtp4BeihJRaweKLR4dRn"
+    },
+    {
+      "sfdp2_onboarding_epoch": 646,
+      "state": "Approved",
+      "validator_identity": "5fSQdv4zsAJNx6RKpGho6sL6rY6a8nziaqcmwaRJB9NE"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "5marvipGzf98hxnoJFXsZbGHSXcEQ3yRGJ4ps7D3V4ou"
+    },
+    {
+      "sfdp2_onboarding_epoch": 797,
+      "state": "Approved",
+      "validator_identity": "5pZvwjSpGYCxpJeySwSbSAji7kZe4YntL7rQvXM3YcNT"
+    },
+    {
+      "sfdp2_onboarding_epoch": 739,
+      "state": "Approved",
+      "validator_identity": "5t4shVsKnUqgjmhK3fFNsvyju2E6Rd7cc4S5pmqqEVEW"
+    },
+    {
+      "sfdp2_onboarding_epoch": 771,
+      "state": "Approved",
+      "validator_identity": "5ysfTZ42VT1TjnjzQShZSrix7wdVtjXwssocSeYKDs5d"
+    },
+    {
+      "sfdp2_onboarding_epoch": 800,
+      "state": "Approved",
+      "validator_identity": "5zm9g3zgAPWzX3wmUB2JtTkcwCqe74NWsTmt5wLFwCKK"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "5zuNci3TV79w6zLoJZzbZujMvkVZb2FcSPhgv9aT24AK"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "61QB1Evn9E3noQtpJm4auFYyHSXS5FPgqKtPgwJJfEQk"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "6NDen7aDi65apHo8m1Vea4nuS6LyjQeM6pDNqcW4Q5Pg"
+    },
+    {
+      "sfdp2_onboarding_epoch": 587,
+      "state": "Approved",
+      "validator_identity": "6Rk694kh1QTyQkirdb1uDZmS5xqG9bNaYtxx8d311Mr7"
+    },
+    {
+      "sfdp2_onboarding_epoch": 844,
+      "state": "Approved",
+      "validator_identity": "6XKqyUVUcpe3CNucjF6gk5zonJDqNGvob6kaTy4Ps1U"
+    },
+    {
+      "sfdp2_onboarding_epoch": 649,
+      "state": "Approved",
+      "validator_identity": "6YY2VS44RP1sBosdEsvSaiw7gETDNx3tmg5mM5wHpTqM"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "6gL3uHvuUjaPp9mTBf2VZ4tpKiYhbWyPrAPboGByzEHd"
+    },
+    {
+      "sfdp2_onboarding_epoch": 623,
+      "state": "Approved",
+      "validator_identity": "6k1YkmTKwPRUhChnxA9ryJmbtuQMbro4xFTL6mL9jycB"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "6qwYjs5vCSEKaTMBbHinnW8fvdGj1r8cpzPoAV1EHKsw"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "6xFDLX751L7H9d5fQT9sf2SM5RWWE9LDgqz25pPDbWoJ"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "6xUK9Nbonr4eoJNtHGoUEMmYKoPz5mipKzyDBv6deX4d"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "6yFGGAgYpBxgYPuHW4rv7hJmhKrUiXKyHkpVGaYtKrwE"
+    },
+    {
+      "sfdp2_onboarding_epoch": 676,
+      "state": "Approved",
+      "validator_identity": "73hojLdq1vZDSxeVQEqVFJ4iwLngdvEJPEpEHkSdv6BZ"
+    },
+    {
+      "sfdp2_onboarding_epoch": 868,
+      "state": "Approved",
+      "validator_identity": "74Xkp2iLXm315h69sFRiCFjmKnaWkMV8W2LgJwPRSgN5"
+    },
+    {
+      "sfdp2_onboarding_epoch": 938,
+      "state": "Approved",
+      "validator_identity": "777idJ8gG2cZXjc5Wvcq7RBtkvcU1TJ8WoLQSHaU8nN2"
+    },
+    {
+      "sfdp2_onboarding_epoch": 896,
+      "state": "Approved",
+      "validator_identity": "7CR6whiYULVf1Knj4J5PxUS37opdk8UAx2WnDzBQKiVe"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "7HMHSdQkjDwz9Q5zAhEy83uzW3XHJchjdpMYapKXcKt5"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "7MTjmteQHhthwwTZhUzsc2dP4NBvGNRqj8jzdqNxHFGE"
+    },
+    {
+      "sfdp2_onboarding_epoch": 587,
+      "state": "Approved",
+      "validator_identity": "7Nu9ckgtjobZ3MkbadGFKEvRymYuah9HmcxiUJKMM9NB"
+    },
+    {
+      "sfdp2_onboarding_epoch": 771,
+      "state": "Approved",
+      "validator_identity": "7PpXQgDb9eCHN1Uudgi77Wm89cRz4T85YgDw83qvaJXd"
+    },
+    {
+      "sfdp2_onboarding_epoch": 735,
+      "state": "Approved",
+      "validator_identity": "7VZM7YHcX73TpGoXDeBu61g4QKC86GwAEnew8dA7Y2xn"
+    },
+    {
+      "sfdp2_onboarding_epoch": 863,
+      "state": "Approved",
+      "validator_identity": "7nzTzRZzezmugqE5ZjHRMxarhXunpwZ2PUdjV7uYzt7A"
+    },
+    {
+      "sfdp2_onboarding_epoch": 632,
+      "state": "Approved",
+      "validator_identity": "8AkVj5aAtJ27tYXeq89cnSf68V43NarFHMx2iSDjZv7c"
+    },
+    {
+      "sfdp2_onboarding_epoch": 693,
+      "state": "Approved",
+      "validator_identity": "8BwBBt23a6v8HgNsFybpLFiBKLV8vWko2Vft3D2DxGvR"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "8GLRbAstsabZuZUx73AoyfGi1FRCWSUhRgMugFyofEz7"
+    },
+    {
+      "sfdp2_onboarding_epoch": 793,
+      "state": "Approved",
+      "validator_identity": "8Nvaxzif1NrdvxNkRetjT8xJvd33EHkKVrfL8EDkgaNy"
+    },
+    {
+      "sfdp2_onboarding_epoch": 775,
+      "state": "Approved",
+      "validator_identity": "8T8AJfUCXwPFwEMmjca8gCRSktPrqbUBVa6ggNyhLhFJ"
+    },
+    {
+      "sfdp2_onboarding_epoch": 908,
+      "state": "Approved",
+      "validator_identity": "8W8v28d1fBZE1fkaaHbowJM4hGZGnVHWNK1NyhUsob6Z"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "8augxYLUge2iWmitQMwbcBL5VQEpsM6aJdRofhwpnzyw"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "8aySXUFrqJz5kath6aVijrkBH8ZtxMWJGhYXwYBpKmHK"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "8ebFZA8NPLBZD91CwsG1HWQsa2B5Ludgdyf5Hi3sYhhs"
+    },
+    {
+      "sfdp2_onboarding_epoch": 775,
+      "state": "Approved",
+      "validator_identity": "8hAYbagNt7CMBooFfqVJhBgLqLffpjXTWJMk8yybjJsN"
+    },
+    {
+      "sfdp2_onboarding_epoch": 941,
+      "state": "Approved",
+      "validator_identity": "8o8wWCYNwPRSCAasp8rYvWuo3Ku1R1i6SEo9j9B6fe5i"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "8pyp3vfVPRziYdAYEyqkwytdBbdVbQmHqfQAVDcRV3w"
+    },
+    {
+      "sfdp2_onboarding_epoch": 712,
+      "state": "Approved",
+      "validator_identity": "8uPW9msN75rfaKiwy8y8NxEX5zSk2WejtVv5YhZr3jCo"
+    },
+    {
+      "sfdp2_onboarding_epoch": 817,
+      "state": "Approved",
+      "validator_identity": "8vk6QpG93JSaQCSgnycBsv5qmfQBk4qC9FjNA35E5JhU"
+    },
+    {
+      "sfdp2_onboarding_epoch": 621,
+      "state": "Approved",
+      "validator_identity": "91oPXTs2oq8VvJpQ5TnvXakFGnnJSpEB6HFWDtSctwMt"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "93Q99nhdKjuSe6WNXgMBbC3s8QVQEAoHKt91PNRkUkMn"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "9FXD1NXrK6xFU8i4gLAgjj2iMEWTqJhSuQN8tQuDfm2e"
+    },
+    {
+      "sfdp2_onboarding_epoch": 733,
+      "state": "Approved",
+      "validator_identity": "9PRr9k87HjjdLMRkxtxygidjxVta9VQ1kAsqgLBWXKdQ"
+    },
+    {
+      "sfdp2_onboarding_epoch": 646,
+      "state": "Approved",
+      "validator_identity": "9dH6wfdJVgnDcbCUjT8rkmejAzTnGQaFarmLfvBYXANK"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "9gFxqsXbFyrKXUkqpAatonn47uYZ7sEZSnMxhzQoXrUJ"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "9pBHfuE19q7PRbupJf8CZAMwv6RHjasdyMN9U9du7Nx2"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "9ppJrpsbbuGNjiMhhD52Ueco4KXUzVfrtNQ6tAcDab4f"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "9q16BB7WGmBxf1nJTdxH5zPnBUhtHqdqXqRFjSjuM4k7"
+    },
+    {
+      "sfdp2_onboarding_epoch": 1002,
+      "state": "Approved",
+      "validator_identity": "9xcXe4WRAfbVoVgQmFD5xgFHioL9dD7c74pQZ7PeczT"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "A23LfQn6khffj2hGhGfXr6P52W2pxrVcCaHVQLYQgiX2"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "ABC1U4cf9DZMwqy8ktEr4WJj8VHmVBQibbC57gEJthwY"
+    },
+    {
+      "sfdp2_onboarding_epoch": 845,
+      "state": "Approved",
+      "validator_identity": "ABREU5YkQcfpDZymoQ97iGUgQcfgjctWUUxEMfumiPdV"
+    },
+    {
+      "sfdp2_onboarding_epoch": 760,
+      "state": "Approved",
+      "validator_identity": "ADjyeNzWd8yhEjCVyAqT87eqoyGRbimERQsNhFQcXjop"
+    },
+    {
+      "sfdp2_onboarding_epoch": 748,
+      "state": "Approved",
+      "validator_identity": "ALPHA6rdHZkx1om79xp47vX1iZXcbM3qfEwLyttZ1T7R"
+    },
+    {
+      "sfdp2_onboarding_epoch": 825,
+      "state": "Approved",
+      "validator_identity": "ANC1u9sY36q3mi2MyVhtz71un8yLgTsFBUuyLcSPzKsk"
+    },
+    {
+      "sfdp2_onboarding_epoch": 633,
+      "state": "Approved",
+      "validator_identity": "AWZhUiQjrjtxL8MEMWsCFbMausFQKkdTnDsFW2i411hN"
+    },
+    {
+      "sfdp2_onboarding_epoch": 726,
+      "state": "Approved",
+      "validator_identity": "AccReGBNBdUCEJ7ZyP231jw7uVJ3eF9u4cLBFAyqQuWm"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "AdSHK6vpQnwHRSw7jXUwjMEytmhFwnynZSENhvpAxL1y"
+    },
+    {
+      "sfdp2_onboarding_epoch": 632,
+      "state": "Approved",
+      "validator_identity": "AfZTWYoFQbzqCMmUBTD7XwxFvjob1FVyCvkaXRryxtKc"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "AiBEt9kE8yZ4CnaLfTCGMp7Fg2wCtqhPTfvJ8D3zrLfu"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "AmhQFcGvH2hjkucP78rn6GMKSbstYwyFpCDVKZUwBGrG"
+    },
+    {
+      "sfdp2_onboarding_epoch": 875,
+      "state": "Approved",
+      "validator_identity": "AmjX7CerZbHrU814UeBp2gJC7gANNG3KrP4c3RyD7TSD"
+    },
+    {
+      "sfdp2_onboarding_epoch": 771,
+      "state": "Approved",
+      "validator_identity": "ArMBx6veRq33ffEP9sxHafiPRgrtzww4XvbwZbSMfXiM"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "AsMpvJ3DZ2Ydu1WTRMAyMH4QjSLiUG39rKzfzvtE1bWr"
+    },
+    {
+      "sfdp2_onboarding_epoch": 974,
+      "state": "Approved",
+      "validator_identity": "AurseT3W3tk1dATBWAXtWR6oubBgECqintfcvP74teU3"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "Av8EnYrPBnSJHK5e2wmTdnCpSy7nzmBgyFaUKSyLnBfe"
+    },
+    {
+      "sfdp2_onboarding_epoch": 906,
+      "state": "Approved",
+      "validator_identity": "BCJN2vZFAHDYmufBDcbD5UAQHSyerXfc6UQkgX3mSWuh"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "BJvrWSfonXnS2Km8iA9KLY6D6vS3GcsaUwUNPFBumTca"
+    },
+    {
+      "sfdp2_onboarding_epoch": 587,
+      "state": "Approved",
+      "validator_identity": "BNtHBLo1L2vAG7PBQ6mJvWz7GqVPxBnioXsY2Gjtubrg"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "BPKAfGkkzF5u1QRjjB1nWYYbPMUCMPJe1xZPmwEMNMCT"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "BR1aTt4ZZUCwWJDkSYf1hqkYJjo7Mb7Ar8iVTkeSwUB8"
+    },
+    {
+      "sfdp2_onboarding_epoch": 919,
+      "state": "Approved",
+      "validator_identity": "BRAZAtTTzR2Es8c98hJvcngerTEyRGSdgkHU59n4A6GT"
+    },
+    {
+      "sfdp2_onboarding_epoch": 760,
+      "state": "Approved",
+      "validator_identity": "BSGMRbK97DcgLe4u4kfNQnmTVZGVnwdtKQBJqWRBTZxU"
+    },
+    {
+      "sfdp2_onboarding_epoch": 953,
+      "state": "Approved",
+      "validator_identity": "BTGPbq4KuFENn4CKuaKGqkaDd3TJD3TEgtMjSrsZnMLb"
+    },
+    {
+      "sfdp2_onboarding_epoch": 1075,
+      "state": "Approved",
+      "validator_identity": "BVSKp2GfzkNaBGtpspsfxr4eYYSGCtSC8j9x1NsX16qG"
+    },
+    {
+      "sfdp2_onboarding_epoch": 838,
+      "state": "Approved",
+      "validator_identity": "BhNnboEZb3mKkVADMH11cYGWCqefAfmhzx5rU4eRTKGY"
+    },
+    {
+      "sfdp2_onboarding_epoch": 587,
+      "state": "Approved",
+      "validator_identity": "BitokuDHQiAhpUKrwx1VssAAoW5Rst8zB6gpfoaxM3Kh"
+    },
+    {
+      "sfdp2_onboarding_epoch": 783,
+      "state": "Approved",
+      "validator_identity": "BoNKmNCGvoHS4CkKvYRnF21iEpUP827pZjhFGdA4t5as"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "BuonuQoAR74GoMwCFhxKWVWWSGGt2wfbNmQ3cizaJ97G"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "BxkAkLR2W3agWtjMXBNvhxmB8vsn7zhjNQcyfost99KY"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "By8MseMKtZQQaQjMHJiyetmc5AC8RZZv8C2ss33ktrHt"
+    },
+    {
+      "sfdp2_onboarding_epoch": 596,
+      "state": "Approved",
+      "validator_identity": "ByszyWdqC3rVMWy8f6jwK5cmwkpwYdwsr7UL58xS5vnm"
+    },
+    {
+      "sfdp2_onboarding_epoch": 845,
+      "state": "Approved",
+      "validator_identity": "CARBN9PY1Qej1aCg4885pfoYH8EHfjWuMy59pVa48ky"
+    },
+    {
+      "sfdp2_onboarding_epoch": 797,
+      "state": "Approved",
+      "validator_identity": "CLsFr1KZVbAyz16iFpwg2e4hiekR1unpwyxfNdjBMaoE"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "CTwsruptUccEtZGNxBDbuusHYxkBX3P6ndrxVjSG213y"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "CVRr5oHCAAooVbYze7CvXtRp4FUtkMCSqBZU7MVu8v8e"
+    },
+    {
+      "sfdp2_onboarding_epoch": 775,
+      "state": "Approved",
+      "validator_identity": "CZanBzZHFzrGY5qKzaX3CNhJ5smHEMTWFFnoeUi4J6dr"
+    },
+    {
+      "sfdp2_onboarding_epoch": 595,
+      "state": "Approved",
+      "validator_identity": "CpNnGGhgVATJAbzHUXdrcGfpPiGuZyPka4QUmH7YgavX"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "CpgSfd6QUoBw1267rTtJoZhELqC5q7isKLojBifSbNEE"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "CtvdyHYt8cMuGVHFarV2RADfoCdnrbd8e9jAsB225uMW"
+    },
+    {
+      "sfdp2_onboarding_epoch": 737,
+      "state": "Approved",
+      "validator_identity": "CtzN7ysR5rX69qd168Aosbuc83mPozhi81bEHbG7ecNP"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "Cu9Ls6dsTL6cxFHZdStHwVSh1uy2ynXz8qPJMS5FRq86"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "D2RV1q6FgePVVjrMa7AMzVbvvAeg5oS7TAV7qdNKSDsX"
+    },
+    {
+      "sfdp2_onboarding_epoch": 579,
+      "state": "Approved",
+      "validator_identity": "D3htsc6iRQJLqCNWcC2xcZgUuvcd1JT8zoYNqraNcTQz"
+    },
+    {
+      "sfdp2_onboarding_epoch": 753,
+      "state": "Approved",
+      "validator_identity": "D8xKNftHzFcCekENuTEcFC1eoL9y8wNHEg4Q5z57KK4e"
+    },
+    {
+      "sfdp2_onboarding_epoch": 776,
+      "state": "Approved",
+      "validator_identity": "DCKyEmMENQMtLXgbmUoHRmgP9XdJ9HsR5WxrKnSDCzKA"
+    },
+    {
+      "sfdp2_onboarding_epoch": 614,
+      "state": "Approved",
+      "validator_identity": "DP9iBgK9c7tJYb83KhxQMFNc1LXYu7nE7EhWpEzQnjmg"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "DViARWAWKkxAzp4UCgbw5B9pLSrBY3PaztFErcwgVUKX"
+    },
+    {
+      "sfdp2_onboarding_epoch": 817,
+      "state": "Approved",
+      "validator_identity": "DeXsDvvZzKhVux4YfDFE6p4acJLGzr8yKt5pSTjzZB8t"
+    },
+    {
+      "sfdp2_onboarding_epoch": 817,
+      "state": "Approved",
+      "validator_identity": "DefiihS7gLkj6xLjjhcr87bFuwpVVNYpeNBaBeFe56CY"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "Diman2GphWLwECE3swjrAEAJniezpYLxK1edUydiDZau"
+    },
+    {
+      "sfdp2_onboarding_epoch": 838,
+      "state": "Approved",
+      "validator_identity": "DnQBmTJyLbBMgJYQLJDqJz25AJModNkyexL5LdVRGnG4"
+    },
+    {
+      "sfdp2_onboarding_epoch": 760,
+      "state": "Approved",
+      "validator_identity": "DupN8puwoPdFo9EYm8AXemEn9cMsore1QmZzfPaxyUG4"
+    },
+    {
+      "sfdp2_onboarding_epoch": 693,
+      "state": "Approved",
+      "validator_identity": "E99w1XfS4UNM1xUKXWEuDmj8Mduy7u65jm2NCULTspSV"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "E9hD3ikumJx1GVswDjnpCt6Uu4WG5mz1PDWCqdE5uhmo"
+    },
+    {
+      "sfdp2_onboarding_epoch": 860,
+      "state": "Approved",
+      "validator_identity": "EATpCzQNs8BzZh1mx1hXMAJm3o1MLXakTXr4UEmcsY7f"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "EAW9vxqogvdPNapq7QTDpiVTHK6o7begUhPVnf854VTc"
+    },
+    {
+      "sfdp2_onboarding_epoch": 684,
+      "state": "Approved",
+      "validator_identity": "EBk678aQvc3cUkfGyoehfw21JQfJXjmWuBeopYc89RSV"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "ECNnK4VjcKTsABiw8FAp3JCE6tCmYyrEJthYVyMazmxi"
+    },
+    {
+      "sfdp2_onboarding_epoch": 858,
+      "state": "Approved",
+      "validator_identity": "ECZx4Dfyn2o55KTYbM9r3Dt4VZRcrdfdrst7sUbWgrdU"
+    },
+    {
+      "sfdp2_onboarding_epoch": 753,
+      "state": "Approved",
+      "validator_identity": "EN5F2BU5juUEWr9zRNNqKuQMi9zBUY1YLPHV5EyMrvnW"
+    },
+    {
+      "sfdp2_onboarding_epoch": 753,
+      "state": "Approved",
+      "validator_identity": "EPFZFVrXuveEQar9LaEkt5kDRPMnbvK54qu5FwCxpkcy"
+    },
+    {
+      "sfdp2_onboarding_epoch": 619,
+      "state": "Approved",
+      "validator_identity": "ETcW7iuVraMKLMJayNCCsr9bLvKrJPDczy1CMVMPmXTc"
+    },
+    {
+      "sfdp2_onboarding_epoch": 587,
+      "state": "Approved",
+      "validator_identity": "EUDis6LJeJzDHTEBgfHGQyjHp63XZkGkx4E69xunC2Ej"
+    },
+    {
+      "sfdp2_onboarding_epoch": 623,
+      "state": "Approved",
+      "validator_identity": "Ed9WjPnZfAXsPttcqxMwj94qsuXVRyBsyXnDkxFva2Zv"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "Ee8dX3qtwrDRnxYK6NGQfmMeKT3Qpp2QZHpxiAiw23W9"
+    },
+    {
+      "sfdp2_onboarding_epoch": 825,
+      "state": "Approved",
+      "validator_identity": "ExCHWgfeJyKRzpfryiQn4W6aYaWhbSAEnsoUnBGNqjWD"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "Ey3DkEVbfBxfWmkTsG7Hqj7jshYf5Zx9H8462Zjjkykf"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "EydLxzdWfD434DDxZYXkTcajvK5VKH7p6CofEDCRUkJ4"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "FACb6bbTDRBHCK999V8ox8jga5JBnt1r3vvzmAYAMv2o"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "FCWkGAHDWK41ANjiaoPudkCZRkvTecaEkoZQugezUnpr"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "FdH9QEQBxPQfaF2JpcjgdfcMnDb7rjZkCDRCWLRjTQwj"
+    },
+    {
+      "sfdp2_onboarding_epoch": 579,
+      "state": "Approved",
+      "validator_identity": "FjYEr2UCeFzNfAKiFrbhG34Zv8LxbmfHYAFhAfc7SLQL"
+    },
+    {
+      "sfdp2_onboarding_epoch": 875,
+      "state": "Approved",
+      "validator_identity": "FoXyHJXdQGK2eHoTjSAzHq4hzxWdJvpGgyzrtPS9eAk"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "FphFJA451qptiGyCeCN3xvrDi8cApGAnyR5vw2KxxQ1q"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "Fudp7uPDYNYQRxoq1Q4JiwJnzyxhVz37bGqRki3PBzS"
+    },
+    {
+      "sfdp2_onboarding_epoch": 693,
+      "state": "Approved",
+      "validator_identity": "FwnWx7x99rGwLmipzz8ii15NqcHkKRo2oS1Y7j6LivgZ"
+    },
+    {
+      "sfdp2_onboarding_epoch": 771,
+      "state": "Approved",
+      "validator_identity": "Fy7RCjDdFLG8wLn7TBKbccaKwYX1FetdSoVDREdUHf5o"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "FyrwfMaomErzqrFUXMjCJ7mA4u81DsiDdrzC3MJD6d4j"
+    },
+    {
+      "sfdp2_onboarding_epoch": 686,
+      "state": "Approved",
+      "validator_identity": "G1eAmANVWf6ZeoxG4aMbS1APauyEDHqLxHFytzk5hZqN"
+    },
+    {
+      "sfdp2_onboarding_epoch": 675,
+      "state": "Approved",
+      "validator_identity": "G4GT8z4AKWNoy3x6nuzxW83UfFXLXzrwn7DZQt4GvWdU"
+    },
+    {
+      "sfdp2_onboarding_epoch": 838,
+      "state": "Approved",
+      "validator_identity": "GFXVa19rX6iwfs3sLS5UvX9Exu2usRsG4V5MRMDRo23V"
+    },
+    {
+      "sfdp2_onboarding_epoch": 1002,
+      "state": "Approved",
+      "validator_identity": "GHQsq6bAdgooi998uKhwdzFubsJ7R3SuhTE9gJ83gctU"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "GQiWnDYrzHMALWG9avt5FCu1wisAQHjGY5ve7GMBiPEe"
+    },
+    {
+      "sfdp2_onboarding_epoch": 619,
+      "state": "Approved",
+      "validator_identity": "GREEDkgav1ox1jYyd9Anv6exLqKV2vYnxMw5prGwmNKc"
+    },
+    {
+      "sfdp2_onboarding_epoch": 825,
+      "state": "Approved",
+      "validator_identity": "GWJyUxzcVwRRtpLuLiu1mpiUQsZ4onYFAYfCjQnuLmz5"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "GiYSnFRrXrmkJMC54A1j3K4xT6ZMfx1NSThEe5X2WpDe"
+    },
+    {
+      "sfdp2_onboarding_epoch": 706,
+      "state": "Approved",
+      "validator_identity": "GvfaiJUhNCRZGVGumsEF1eHDb8JpAeFAyHSrTifyhrbt"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "GwHH8ciFhR8vejWCqmg8FWZUCNtubPY2esALvy5tBvji"
+    },
+    {
+      "sfdp2_onboarding_epoch": 737,
+      "state": "Approved",
+      "validator_identity": "H9ENbtmy2tWFtAJNmpC8xQtbcr1NTp4FXLdphRaG8L2T"
+    },
+    {
+      "sfdp2_onboarding_epoch": 737,
+      "state": "Approved",
+      "validator_identity": "HM19KBHDJy93DYEJv4iFayMmCbJ1QVAk2EDG6XDgmnJS"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "HMWXfjaeSHhww1wvdBhqhHVP9v96mFB4LJ9xP2MXbDGH"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "HVXXmNKkmDZbZwj74iL2Y9Wu4SyrchBoxAfFYVAktLrG"
+    },
+    {
+      "sfdp2_onboarding_epoch": 725,
+      "state": "Approved",
+      "validator_identity": "Ha1iade1AH3B12K9SccfWoPdFtQKKQsj2ZyWwxcjqJJU"
+    },
+    {
+      "sfdp2_onboarding_epoch": 646,
+      "state": "Approved",
+      "validator_identity": "HcZvwZ83PfjrQDiq3GLHxisTs17aGURs6bJ2LwtmL4qv"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "Hj2jzpAp57KyM3SmnYwJbDVrQ8tTWizMon2hhzYzwxet"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "HnwMGBAw5PxaX56eSYc969MorEy2NzEMPLkmBkdnJmeq"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "HrpWeJSYnQVtZe3BKxFCBrAEr8GRCmYUbQev4hoGDBs6"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "HwN6eoEe9N3kwHi66hpQDBMFPk6ASQGthWKPX5MZmisp"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "JC7bH7HSZoDhwggBXtRF31cVt71WiizY2J6YDDQfG5er"
+    },
+    {
+      "sfdp2_onboarding_epoch": 860,
+      "state": "Approved",
+      "validator_identity": "KAW1LjxH73tRBd1XsaqsRsgeERFkg4WpdXUSqR4QjkW"
+    },
+    {
+      "sfdp2_onboarding_epoch": 860,
+      "state": "Approved",
+      "validator_identity": "KAoSp3EudGqUBXv46tQoDwbZxSm3iXa9wM2aF4ySbJJ"
+    },
+    {
+      "sfdp2_onboarding_epoch": 616,
+      "state": "Approved",
+      "validator_identity": "LFGGGJtnBLvq78DyMz1gTeedM6f8owck76qHThDABBC"
+    },
+    {
+      "sfdp2_onboarding_epoch": 726,
+      "state": "Approved",
+      "validator_identity": "Lake8NXDThihebhxS3Js7mFnj9fthmus93zEdsFNrsL"
+    },
+    {
+      "sfdp2_onboarding_epoch": 846,
+      "state": "Approved",
+      "validator_identity": "LiFiDJwJjW98MB8wxcnXpafKYsuz1hwpUkuszkERiX6"
+    },
+    {
+      "sfdp2_onboarding_epoch": 876,
+      "state": "Approved",
+      "validator_identity": "LimeA3gMLb2SjxrKbP7NsWk1UwTZrw4B6Ctc9dmVU6E"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "LodeuWMHPiPj2PUHUyca2bkpFv9HyzR3gaDBmGJ9TSS"
+    },
+    {
+      "sfdp2_onboarding_epoch": 875,
+      "state": "Approved",
+      "validator_identity": "Lua1fxRRHCnjVAYdfGyv2GbUsRHGM2DN2wgpWuF2WSb"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "LunaowJnt875WWoqDkhHhE93SNYHa6tfFNVn1rqc57c"
+    },
+    {
+      "sfdp2_onboarding_epoch": 875,
+      "state": "Approved",
+      "validator_identity": "MBVyz9s72WSfUmbr1S8fgHjDJQkPs1Q4Wxi6A2Mees9"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "MCFmmmXdzTKjBEoMggi8JGFJmd856uYSowuH2sCU5kx"
+    },
+    {
+      "sfdp2_onboarding_epoch": 875,
+      "state": "Approved",
+      "validator_identity": "MFLKSo4XDfrBf4FByx76zYM2dXSWcigag7ec2bCHTR4"
+    },
+    {
+      "sfdp2_onboarding_epoch": 828,
+      "state": "Approved",
+      "validator_identity": "MagiCBYNPD9iTBXqiFybAFCREQzG6MSM4LmFLXQZxuV"
+    },
+    {
+      "sfdp2_onboarding_epoch": 875,
+      "state": "Approved",
+      "validator_identity": "MicoB9cA9R6jsicdhzWFjwd9HMkV8FA4o3WxYU6Z2yz"
+    },
+    {
+      "sfdp2_onboarding_epoch": 768,
+      "state": "Approved",
+      "validator_identity": "N43JWBg42ZoUFMkHsRUVbP7wGVdxaHKanqaF9BBNiFC"
+    },
+    {
+      "sfdp2_onboarding_epoch": 722,
+      "state": "Approved",
+      "validator_identity": "NATsUSZGohWw8xtLdxG4yus21UCkaes4FLfM2eqKbRk"
+    },
+    {
+      "sfdp2_onboarding_epoch": 693,
+      "state": "Approved",
+      "validator_identity": "NLMSHTjmSiRxGJPs3uaqtsFBC2dTGYwK41U18Nmw5kH"
+    },
+    {
+      "sfdp2_onboarding_epoch": 676,
+      "state": "Approved",
+      "validator_identity": "NdMV1C3XMCRqSBwBtNmoUNnKctYh95Ug4xb6FSTcAWr"
+    },
+    {
+      "sfdp2_onboarding_epoch": 982,
+      "state": "Approved",
+      "validator_identity": "NoditgWLFbgnbPjfHP8QQrjxvuhCayTZWHw9pM4EJpu"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "NordEHiwa6wT5TCjdeWJzpsA7DSmWQPqfSS7m2b6cv3"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "PAD9aPiKJGcbGxuVLbc8o4Vf65GPq3fJQ7PkHWuX6a8"
+    },
+    {
+      "sfdp2_onboarding_epoch": 782,
+      "state": "Approved",
+      "validator_identity": "PAWsME7oYbjt5TRNc11mBa33JhKnQr9AYherdr9YAZ6"
+    },
+    {
+      "sfdp2_onboarding_epoch": 845,
+      "state": "Approved",
+      "validator_identity": "PKdLMugp1Mf88Ji1GkdqRDBewaUh2cqg79CBEo6eJoQ"
+    },
+    {
+      "sfdp2_onboarding_epoch": 595,
+      "state": "Approved",
+      "validator_identity": "PRGNnb8DxVcP2WjSHfVRGgc8SkA5u6dbMwoTVV1BGKN"
+    },
+    {
+      "sfdp2_onboarding_epoch": 722,
+      "state": "Approved",
+      "validator_identity": "Pid6HQnMCFb9izqX9i7X6ePdUPieGmjHoPxC1Jfooix"
+    },
+    {
+      "sfdp2_onboarding_epoch": 808,
+      "state": "Approved",
+      "validator_identity": "PuRposE4utktenW49N8DCtVzdVEwYrmsrroboEUram4"
+    },
+    {
+      "sfdp2_onboarding_epoch": 856,
+      "state": "Approved",
+      "validator_identity": "R2D2imoV8nXk1ngT9v4dEK65We4uLNyUarTBdWbFruq"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "RAuSNo4DRjo83uGhdgg4fPqYBVszi1KsrQGpqcPHK1D"
+    },
+    {
+      "sfdp2_onboarding_epoch": 860,
+      "state": "Approved",
+      "validator_identity": "ReFiqMfGnc7tW8WQtFFcJRPZSDAWDBnAsdoFYF2QnfR"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "RoYFUUD7QD9aQ34UCMcwfye8dC5YvJeXz2J3mmoy5S4"
+    },
+    {
+      "sfdp2_onboarding_epoch": 800,
+      "state": "Approved",
+      "validator_identity": "RoYLttggWwa2st3KAGEjnPhsq4NPD5QwaNVyyR8pTz4"
+    },
+    {
+      "sfdp2_onboarding_epoch": 974,
+      "state": "Approved",
+      "validator_identity": "SA1LFXr4os2P4VKGUyRv84uFfuUYgcQkFh2uA4SmRcr"
+    },
+    {
+      "sfdp2_onboarding_epoch": 706,
+      "state": "Approved",
+      "validator_identity": "SANDCxXBbQhvbUqNtiLqKdFEY1uQhVo1UgUACaS4mXU"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "SFundNVpuWk89g211WKUZGkuu4BsKSp7PbnmRsPZLos"
+    },
+    {
+      "sfdp2_onboarding_epoch": 595,
+      "state": "Approved",
+      "validator_identity": "SLNDCSGTEsA6KHpgR32MBt9UAurZnVSJGUtW2tRpdU2"
+    },
+    {
+      "sfdp2_onboarding_epoch": 630,
+      "state": "Approved",
+      "validator_identity": "SQDS9iwyWvT2mQbSZzuNKGoxuBug5jRHouF6SuMRBkA"
+    },
+    {
+      "sfdp2_onboarding_epoch": 676,
+      "state": "Approved",
+      "validator_identity": "SSmBEooM7RkmyuXxuKgAhTvhQZ36Z3G2WsmLGJKoQLY"
+    },
+    {
+      "sfdp2_onboarding_epoch": 699,
+      "state": "Approved",
+      "validator_identity": "STKEsvUSpD38eDxkAJN6cENMYfjVxieajVpmVVkgd1t"
+    },
+    {
+      "sfdp2_onboarding_epoch": 800,
+      "state": "Approved",
+      "validator_identity": "SWiz7QwnYPm61pWWUUkMhj4r5pZLP1SvYibdHcB2cov"
+    },
+    {
+      "sfdp2_onboarding_epoch": 684,
+      "state": "Approved",
+      "validator_identity": "SaGAgdkowooXBrHihpmE8gsjf1dUG7n5SqnyJxYFnXJ"
+    },
+    {
+      "sfdp2_onboarding_epoch": 643,
+      "state": "Approved",
+      "validator_identity": "Stakex4B2tpDHPWGvV1dninfiaYCGdakgTknpzPitLh"
+    },
+    {
+      "sfdp2_onboarding_epoch": 838,
+      "state": "Approved",
+      "validator_identity": "Ste1115xFGdAYK5jaWA3dEFcUc1S5jEbVvD8e327zty"
+    },
+    {
+      "sfdp2_onboarding_epoch": 785,
+      "state": "Approved",
+      "validator_identity": "THWsLPufeq9LWs2H9vYPbtFwdxAHbQHvSbT6pztG8x1"
+    },
+    {
+      "sfdp2_onboarding_epoch": 973,
+      "state": "Approved",
+      "validator_identity": "TREEir31FswHK7JZBS5oFQteS72dobi6inpmQha88dA"
+    },
+    {
+      "sfdp2_onboarding_epoch": 605,
+      "state": "Approved",
+      "validator_identity": "Tri1F8B6YtjkBztGCwBNSLEZib1EAqMUEUM7dTT7ZG3"
+    },
+    {
+      "sfdp2_onboarding_epoch": 825,
+      "state": "Approved",
+      "validator_identity": "UNrgBLmc8JT6A3dxXY9DWeHvDezt2DZQbhg1KPQfqEL"
+    },
+    {
+      "sfdp2_onboarding_epoch": 700,
+      "state": "Approved",
+      "validator_identity": "Va1idLRtYEtVFJFsvz8vtt1uCJgea4Q1zi2Rh3eraJh"
+    },
+    {
+      "sfdp2_onboarding_epoch": 771,
+      "state": "Approved",
+      "validator_identity": "VicAQ3U2GjjAuF3tPCtEQZdZKnpAAxkr5Q3zjDKmdo7"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "WUNoB9YQXmXXRcJsjY1G8PfVag5aAfnyGmFd6YwJVwp"
+    },
+    {
+      "sfdp2_onboarding_epoch": 793,
+      "state": "Approved",
+      "validator_identity": "YE11a5nVJtUNqsojkphYuWc7StqBzbCeFH6BjhAAUEV"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "YuRBAsy9Stw1u46A8dMp7WQVBFweLP1PKuYibzYAMmQ"
+    },
+    {
+      "sfdp2_onboarding_epoch": 722,
+      "state": "Approved",
+      "validator_identity": "adramSYKBv1yHoZTub4kepcmF5LybPxwyJcsz4fpfi7"
+    },
+    {
+      "sfdp2_onboarding_epoch": 800,
+      "state": "Approved",
+      "validator_identity": "adre1Xia7ekGsEqNgHeFc7MYwkfzTQNeJgQmZ2agAKZ"
+    },
+    {
+      "sfdp2_onboarding_epoch": 793,
+      "state": "Approved",
+      "validator_identity": "anza1rXDVhy1NfVNtsbT3kSBh2jgB1BGZUKuUibSAJd"
+    },
+    {
+      "sfdp2_onboarding_epoch": 938,
+      "state": "Approved",
+      "validator_identity": "avnujiRNoSRe9PcET42DPKznyfYnb2LRaZAsqv6REZo"
+    },
+    {
+      "sfdp2_onboarding_epoch": 713,
+      "state": "Approved",
+      "validator_identity": "axy3tCRL3wmFMVG4c69rYurcf4fXhBo2RcuBj9ADnJ4"
+    },
+    {
+      "sfdp2_onboarding_epoch": 768,
+      "state": "Approved",
+      "validator_identity": "b1ueZK9bWTywN2587zsScyLTaH18wfRfN5W15XnkiqF"
+    },
+    {
+      "sfdp2_onboarding_epoch": 725,
+      "state": "Approved",
+      "validator_identity": "bay3wXfJsu9ds1zQBoQQ4DUwFGs3NP6q4gca9WM5G1z"
+    },
+    {
+      "sfdp2_onboarding_epoch": 748,
+      "state": "Approved",
+      "validator_identity": "bookoVmqw4QjVj5BbkFacouadx9M7816wyRkfM7A5Lo"
+    },
+    {
+      "sfdp2_onboarding_epoch": 739,
+      "state": "Approved",
+      "validator_identity": "bxrAptB5ZpZBhoLedJpoGWY5hBjjt3zvVBr2323Rrq6"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "c3rtoMCHSbFrLRTAdw4iRowKSn4BrDtvSPbuyJwkHwx"
+    },
+    {
+      "sfdp2_onboarding_epoch": 915,
+      "state": "Approved",
+      "validator_identity": "capyS1jerxhFp1RehdWRG6kbWi8bnWF3fkEG2RGLsQf"
+    },
+    {
+      "sfdp2_onboarding_epoch": 686,
+      "state": "Approved",
+      "validator_identity": "chdvWr6T14nqGRFD37KY36dsvhkCtDaufW5rpu3AfHe"
+    },
+    {
+      "sfdp2_onboarding_epoch": 896,
+      "state": "Approved",
+      "validator_identity": "chopskqnudaeCTENWzUjfFCBSLcxprqbdMoCAucAwfb"
+    },
+    {
+      "sfdp2_onboarding_epoch": 712,
+      "state": "Approved",
+      "validator_identity": "chrtyETASKQhsndRM9pr6qC3gAHG5MuRwCgXSNVqnJL"
+    },
+    {
+      "sfdp2_onboarding_epoch": 782,
+      "state": "Approved",
+      "validator_identity": "ciTyjzN9iyobidMycjyqRRM7vXAHXkFzH3m8vEr6cQj"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "cybi55ebub37HZW9YmRaLh59Lh3kqaLTsEBQwW6vFkC"
+    },
+    {
+      "sfdp2_onboarding_epoch": 773,
+      "state": "Approved",
+      "validator_identity": "dcntruDNP5SEcGV4RxnsqXFURdDZGT3DTQv68Q8H7Vu"
+    },
+    {
+      "sfdp2_onboarding_epoch": 643,
+      "state": "Approved",
+      "validator_identity": "dmMwc4RazLHkvDZYrWAfbHQ6cViAvNa5szCJKaiun8S"
+    },
+    {
+      "sfdp2_onboarding_epoch": 775,
+      "state": "Approved",
+      "validator_identity": "dst2u7mXMyDvb14cSErRNA1mxH1d5VXbSXgZ3DKE9xH"
+    },
+    {
+      "sfdp2_onboarding_epoch": 929,
+      "state": "Approved",
+      "validator_identity": "dxa6QFqLcByyHykLCAW5tv1VYNVQFV3v6oovM2h8inH"
+    },
+    {
+      "sfdp2_onboarding_epoch": 659,
+      "state": "Approved",
+      "validator_identity": "eyeYaqg9e2L6xw7YwsSLm27eWJfhLNAm6ETQm8TXNoK"
+    },
+    {
+      "sfdp2_onboarding_epoch": 856,
+      "state": "Approved",
+      "validator_identity": "fdzip81euDS8jEZHx5H1mn27zGVMLzkgpQuzYRBfBYG"
+    },
+    {
+      "sfdp2_onboarding_epoch": 845,
+      "state": "Approved",
+      "validator_identity": "fhsM2sxME8cHrrk3qvtMsRRDv5AoLFja7NjNnHeYZxe"
+    },
+    {
+      "sfdp2_onboarding_epoch": 840,
+      "state": "Approved",
+      "validator_identity": "fishfishrD9BwrQQiAcG6YeYZVUYVJf3tb9QGQPMJqF"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "forb5u56XgvzxiKfRt4FVNFQKJrd2LWAfNCsCqL6P7q"
+    },
+    {
+      "sfdp2_onboarding_epoch": 726,
+      "state": "Approved",
+      "validator_identity": "gVALrRd3xq4D62KJNGDCpMMGz976w2x1Vo79mSNn4bh"
+    },
+    {
+      "sfdp2_onboarding_epoch": 686,
+      "state": "Approved",
+      "validator_identity": "gojir4WnhS7VS1JdbnanJMzaMfr4UD7KeX1ixWAHEmw"
+    },
+    {
+      "sfdp2_onboarding_epoch": 808,
+      "state": "Approved",
+      "validator_identity": "gotasRuLTuJNZDtLHmaDJpEUjCWZqkHcuwbLhkgCwCX"
+    },
+    {
+      "sfdp2_onboarding_epoch": 615,
+      "state": "Approved",
+      "validator_identity": "gridqZmeBcsUKT2Mv4M9YFHFN3tVLFb2TCtTcLD1cAd"
+    },
+    {
+      "sfdp2_onboarding_epoch": 804,
+      "state": "Approved",
+      "validator_identity": "grptonHnt7YSmJokGK9TJJTBXDT8ca4LSWMHCCfzzPa"
+    },
+    {
+      "sfdp2_onboarding_epoch": 814,
+      "state": "Approved",
+      "validator_identity": "h3ZXAE168mNxsszYYrUfkMVSCWx6DU2Uvrx97Kb1Nch"
+    },
+    {
+      "sfdp2_onboarding_epoch": 686,
+      "state": "Approved",
+      "validator_identity": "hnhCMmnrmod4rcyc3QRKkLEC9XnPTvYJ2gBvjgFiV4o"
+    },
+    {
+      "sfdp2_onboarding_epoch": 614,
+      "state": "Approved",
+      "validator_identity": "huinBRP3muBuqZLMW8ARjdn4mBnEmFFcxiBzrkQz553"
+    },
+    {
+      "sfdp2_onboarding_epoch": 649,
+      "state": "Approved",
+      "validator_identity": "hxMhrsuGPDmkLJ4mTxEjyeMST3VGhTiwJvS9XgHwePj"
+    },
+    {
+      "sfdp2_onboarding_epoch": 808,
+      "state": "Approved",
+      "validator_identity": "hy1oMaD3ViyJ8i6w1xjP79zAWBBaRd1zWdTW8zYXnwu"
+    },
+    {
+      "sfdp2_onboarding_epoch": 615,
+      "state": "Approved",
+      "validator_identity": "icex1C6pnZxznQWiHZZANjGU8nZ8kNquFnjyY7XXrXE"
+    },
+    {
+      "sfdp2_onboarding_epoch": 815,
+      "state": "Approved",
+      "validator_identity": "idCE5k2BtTpwXdwAC7Var1enT9reut9fWECcxQP7LY7"
+    },
+    {
+      "sfdp2_onboarding_epoch": 712,
+      "state": "Approved",
+      "validator_identity": "jagBNeXYncnn1hzwSq1JJ16XhWTgQ7DCFVqndSJZ6vT"
+    },
+    {
+      "sfdp2_onboarding_epoch": 782,
+      "state": "Approved",
+      "validator_identity": "jntr1vkzvSujfckGR6ANmFmirVoPBMNr5XJGKP5uDQA"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "juigBT2qetpYpf1iwgjaiWTjryKkY3uUTVAnRFKkqY6"
+    },
+    {
+      "sfdp2_onboarding_epoch": 838,
+      "state": "Approved",
+      "validator_identity": "kyzzzgRymGpePUsLyr48kQHt53kh5CSfRH1qfvz1xgj"
+    },
+    {
+      "sfdp2_onboarding_epoch": 817,
+      "state": "Approved",
+      "validator_identity": "mALL2W6DUgDDtcyurC9v5YTF2CMMeuRwPBkf6tEoG3y"
+    },
+    {
+      "sfdp2_onboarding_epoch": 896,
+      "state": "Approved",
+      "validator_identity": "mD1afZhSisoXfJLT8nYwSFANqjr1KPoDUEpYTEfFX1e"
+    },
+    {
+      "sfdp2_onboarding_epoch": 728,
+      "state": "Approved",
+      "validator_identity": "mXv18ov8qCiQGs3ieoen981LdgZzYJjJak6reK6fpNC"
+    },
+    {
+      "sfdp2_onboarding_epoch": 610,
+      "state": "Approved",
+      "validator_identity": "mastWEbKEMjvBCd1uaUBpNjWcfSPhXMWnH9tTrgzn1g"
+    },
+    {
+      "sfdp2_onboarding_epoch": 615,
+      "state": "Approved",
+      "validator_identity": "meshRrDTME9cL2FSQ9E56EncfkZ7vL8apwcCFsw3o6Y"
+    },
+    {
+      "sfdp2_onboarding_epoch": 735,
+      "state": "Approved",
+      "validator_identity": "mineL1YNwcRnxN93B2sX6q22R11WfRqxnY4NBV8KfFY"
+    },
+    {
+      "sfdp2_onboarding_epoch": 596,
+      "state": "Approved",
+      "validator_identity": "mint13XHZSSxtgHuTSM9qPDEJSbWktpmpM4CZxeLB8f"
+    },
+    {
+      "sfdp2_onboarding_epoch": 649,
+      "state": "Approved",
+      "validator_identity": "mythxvB89eT3C1TKwwhsvdHfYq2aoCt2es8vLoDFYyk"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "nSGZ3tv2UhskkPqiB666yDVj7PTi9qKgDqvjHyw5JgM"
+    },
+    {
+      "sfdp2_onboarding_epoch": 701,
+      "state": "Approved",
+      "validator_identity": "nateKhsYkrVc992UuTfAhEEFQqr2zQfpGg9RafNkxdC"
+    },
+    {
+      "sfdp2_onboarding_epoch": 737,
+      "state": "Approved",
+      "validator_identity": "nebu15XQKGpxzhhckADBX9PgvGN5qk9RRJCFLKc118w"
+    },
+    {
+      "sfdp2_onboarding_epoch": 712,
+      "state": "Approved",
+      "validator_identity": "nodeEgRVkbYLAQePtMx2zCN7CGw7qRgzKMCBtjMfN1D"
+    },
+    {
+      "sfdp2_onboarding_epoch": 797,
+      "state": "Approved",
+      "validator_identity": "novaeuhY2JH2WHhc9KVTHDx2cyJZdXJC6faf4CtARZn"
+    },
+    {
+      "sfdp2_onboarding_epoch": 616,
+      "state": "Approved",
+      "validator_identity": "nymsGg7ZXcYBwGYKZL8qEHk9PQ8sAkKvnXgUNLPyGDV"
+    },
+    {
+      "sfdp2_onboarding_epoch": 748,
+      "state": "Approved",
+      "validator_identity": "odcvDWH5wHVKz9XtmGGxTj5ZsmawTjCCty3nyBKDGzS"
+    },
+    {
+      "sfdp2_onboarding_epoch": 725,
+      "state": "Approved",
+      "validator_identity": "omeg2wsojzB7tfyAxsFhp8npxHL8yxVnaf51poXCwSd"
+    },
+    {
+      "sfdp2_onboarding_epoch": 676,
+      "state": "Approved",
+      "validator_identity": "parafiUS6h6oLhCFwhjvEmQJKw8pF1iXsxMJdTq46dS"
+    },
+    {
+      "sfdp2_onboarding_epoch": 754,
+      "state": "Approved",
+      "validator_identity": "peNgUgnzs1jGogUPW8SThXMvzNpzKSNf3om78xVPAYx"
+    },
+    {
+      "sfdp2_onboarding_epoch": 595,
+      "state": "Approved",
+      "validator_identity": "phz1CRbEsCtFCh2Ro5tjyu588VU1WPMwW9BJS9yFNn2"
+    },
+    {
+      "sfdp2_onboarding_epoch": 845,
+      "state": "Approved",
+      "validator_identity": "pineXRUnbaLNFMxaM3zBmFfTiKgQMGqT9jYHXZWq2Fw"
+    },
+    {
+      "sfdp2_onboarding_epoch": 817,
+      "state": "Approved",
+      "validator_identity": "pitch9cMruwjDtAnisNS4mwZUPhMsBztNEGu2weMg55"
+    },
+    {
+      "sfdp2_onboarding_epoch": 579,
+      "state": "Approved",
+      "validator_identity": "popscoyTKVksa4TyTXw488b3vvFxM7qQEyTBeMQopKu"
+    },
+    {
+      "sfdp2_onboarding_epoch": 614,
+      "state": "Approved",
+      "validator_identity": "ppppoqHcHVzigV6SK4856BAsNxhTAi32hqQQWrziyHE"
+    },
+    {
+      "sfdp2_onboarding_epoch": 817,
+      "state": "Approved",
+      "validator_identity": "puffinQSvKFriPbyE5atyx1ptfnyytovbzxybr1jsyy"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "qZMH9GWnnBkx7aM1h98iKSv2Lz5N78nwNSocAxDQrbP"
+    },
+    {
+      "sfdp2_onboarding_epoch": 612,
+      "state": "Approved",
+      "validator_identity": "radM7PKUpZwJ9bYPAJ7V8FXHeUmH1zim6iaXUKkftP9"
+    },
+    {
+      "sfdp2_onboarding_epoch": 649,
+      "state": "Approved",
+      "validator_identity": "rapXHroUoGG3KvZ3qwjvGMdA7siWXwXpiNC1bYarvSC"
+    },
+    {
+      "sfdp2_onboarding_epoch": 772,
+      "state": "Approved",
+      "validator_identity": "rsbp8zMHbGCpLoRktmsjspYv77VcjxAzH1KxPCD9BiU"
+    },
+    {
+      "sfdp2_onboarding_epoch": 754,
+      "state": "Approved",
+      "validator_identity": "sCANXAaS1a7yB8jz3USvGNLfd8DSc9r7TNzNSKKPkfY"
+    },
+    {
+      "sfdp2_onboarding_epoch": 693,
+      "state": "Approved",
+      "validator_identity": "sTEAKPk59EtPPbixCweyv6oRLNCDEE8pnnef6gUfbiW"
+    },
+    {
+      "sfdp2_onboarding_epoch": 800,
+      "state": "Approved",
+      "validator_identity": "sTEVErNNwF2qPnV6DuNPkWpEyCt4UU6k2Y3Hyn7WUFu"
+    },
+    {
+      "sfdp2_onboarding_epoch": 946,
+      "state": "Approved",
+      "validator_identity": "sTepQGoReJq2tBKStL19DT6nnGHcGiAvFjyYaokLyuM"
+    },
+    {
+      "sfdp2_onboarding_epoch": 1062,
+      "state": "Approved",
+      "validator_identity": "sbidYi7fbif6qNsMpwBKvyF5DKcLCbjaegpADsKqNux"
+    },
+    {
+      "sfdp2_onboarding_epoch": 845,
+      "state": "Approved",
+      "validator_identity": "sfvTq7ojrEc5WdXcHijz676eX1pc5MgoLxbkYSdRDAB"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "simpRo1FrQYGa1moicfgnPDp6KyE38d4gYrZzhjXYJb"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "spcti6GQVvinbtHU9UAkbXhjTcBJaba1NVx4tmK4M5F"
+    },
+    {
+      "sfdp2_onboarding_epoch": 860,
+      "state": "Approved",
+      "validator_identity": "svsD6T44XJnuXQWB15sy1pBxxruzrFy8rR7gXy8Jsj3"
+    },
+    {
+      "sfdp2_onboarding_epoch": 1017,
+      "state": "Approved",
+      "validator_identity": "tapeQbu7YwpMuJNA2oSKBJkfBdic5QJ9bCZt27Q4PVf"
+    },
+    {
+      "sfdp2_onboarding_epoch": 800,
+      "state": "Approved",
+      "validator_identity": "te1ee9rGf369wxYQkuxkvuvMuTJ9cksgZySmNUF8rNY"
+    },
+    {
+      "sfdp2_onboarding_epoch": 701,
+      "state": "Approved",
+      "validator_identity": "tkmaiSoZ3F8MofkQBVWG6JYSCzyN6ioe7ReYXohx3WJ"
+    },
+    {
+      "sfdp2_onboarding_epoch": 800,
+      "state": "Approved",
+      "validator_identity": "vALigXFg9wnnhVHN16vNxHxXtAXiBv5QjAE6udoniBY"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "vahMVcSS3v6uwyFormV7FDAUbQSHwmy6vUedp1P7L42"
+    },
+    {
+      "sfdp2_onboarding_epoch": 632,
+      "state": "Approved",
+      "validator_identity": "vaoJKVZYPAsqc52T2nNQhABR1gU6Cy2koDKfCQaEiva"
+    },
+    {
+      "sfdp2_onboarding_epoch": 800,
+      "state": "Approved",
+      "validator_identity": "vnd1Ps8w3fsi54qUMJxBhUWARES34Qw7JQXDZxvbysd"
+    },
+    {
+      "sfdp2_onboarding_epoch": 1054,
+      "state": "Approved",
+      "validator_identity": "vxida39xd7rX96zC4deP9gBteuRXhp9BbioHCrqC8gp"
+    },
+    {
+      "sfdp2_onboarding_epoch": 577,
+      "state": "Approved",
+      "validator_identity": "zeroT6PTAEjipvZuACTh1mbGCqTHgA6i1ped9DcuidX"
+    }
+  ],
+  "retrieved_at_utc": "2026-11-07T15:36:09.653Z",
+  "source_url": "https://api.solana.org/api/community/v1/sfdp_participants"
+}

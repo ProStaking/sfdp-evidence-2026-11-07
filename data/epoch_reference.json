@@ -1,0 +1,70 @@
+{
+  "block_time_note": "This wider window encloses the recorded RPC retrievals. Exact per-response timestamps were not saved. getBlockTime is an estimated chain block production time.",
+  "block_time_responses": [
+    {
+      "epoch": 875,
+      "request": {
+        "id": 875,
+        "jsonrpc": "2.0",
+        "method": "getBlockTime",
+        "params": [
+          378000000
+        ]
+      },
+      "response": {
+        "id": 875,
+        "jsonrpc": "2.0",
+        "result": 1762312930
+      },
+      "utc_time": "2025-11-05T03:22:10Z"
+    },
+    {
+      "epoch": 876,
+      "request": {
+        "id": 876,
+        "jsonrpc": "2.0",
+        "method": "getBlockTime",
+        "params": [
+          378432000
+        ]
+      },
+      "response": {
+        "id": 876,
+        "jsonrpc": "2.0",
+        "result": 1762485928
+      },
+      "utc_time": "2025-11-07T03:25:28Z"
+    },
+    {
+      "epoch": 877,
+      "request": {
+        "id": 877,
+        "jsonrpc": "2.0",
+        "method": "getBlockTime",
+        "params": [
+          378864000
+        ]
+      },
+      "response": {
+        "id": 877,
+        "jsonrpc": "2.0",
+        "result": 1762658866
+      },
+      "utc_time": "2025-11-09T03:27:46Z"
+    }
+  ],
+  "block_time_retrieved_window_utc": "2026-11-07T15:36:00Z/2026-11-07T15:46:16Z",
+  "epoch_schedule_response": {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+      "firstNormalEpoch": 0,
+      "firstNormalSlot": 0,
+      "leaderScheduleSlotOffset": 432000,
+      "slotsPerEpoch": 432000,
+      "warmup": false
+    }
+  },
+  "epoch_schedule_retrieved_at_utc": "2026-11-07T15:39:31.794491+00:00",
+  "rpc_url": "https://api.mainnet-beta.solana.com"
+}

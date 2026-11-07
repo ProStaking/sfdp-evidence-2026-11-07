@@ -1,0 +1,29 @@
+{
+  "as_of_date_utc": "2026-11-07",
+  "criteria_page_old_threshold_sol": 1000000,
+  "criteria_page_url": "https://solana.org/delegation-criteria",
+  "eligibility_clock_quote": "Membership lasts 12 months, measured from the first epoch the validator was eligible for a Foundation delegation on mainnet.",
+  "faq_url": "https://solana.org/faq",
+  "outside_stake_retirement_condition": {
+    "metric": "stake from sources other than SFDP",
+    "operator": ">",
+    "value_sol": 300000
+  },
+  "quote_snapshot_provenance": {
+    "captured_from": "English FAQ translation embedded in official dashboard HTML",
+    "dashboard_capture_utc": "2026-11-07T15:36:29.467Z",
+    "nextjs_build_id": "V-kMocdNxGt4Ar01a7SbX"
+  },
+  "renewal_form_updated_at_utc": "2026-11-06T19:52:37Z",
+  "renewal_page_retrieved_at_utc": "2026-11-07T15:48:06.750Z",
+  "renewal_paraphrase": "The form permits one application for an additional year. Current criteria and evidence of meaningful ecosystem contributions are required; renewal is not guaranteed.",
+  "renewal_url": "https://solanafoundation.typeform.com/to/GnddaMFk",
+  "reported_cap": {
+    "primary_announcement_independently_retrieved": false,
+    "secondary_sources": [
+      "https://x.com/SolanaFloor/status/2118794673351164047",
+      "https://cryptobriefing.com/solana-foundation-validator-delegation-program-rules/"
+    ],
+    "supported_validators": 100
+  }
+}

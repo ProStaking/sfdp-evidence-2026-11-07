@@ -1,0 +1,16 @@
+{
+  "age_reference_time_utc": "2026-11-07T15:46:15.551Z",
+  "cohort_filter": "participant.state == 'Approved'",
+  "counting_unit": "unique mainnet validator identity public key",
+  "eligible_statuses": [
+    "Baseline",
+    "Bonus"
+  ],
+  "lamports_per_sol": 1000000000,
+  "last_epoch_start_before_anniversary": 876,
+  "mainnet_history_reference_epoch": 1078,
+  "snapshot_window_end_utc": "2026-11-07T15:46:15.551Z",
+  "snapshot_window_start_utc": "2026-11-07T15:36:09.654Z",
+  "stake_threshold_lamports": "300000000000000",
+  "twelve_calendar_month_cutoff_utc": "2025-11-07T15:46:15.551Z"
+}
